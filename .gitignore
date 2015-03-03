@@ -1,0 +1,4 @@
+/vendor
+/Tests/Provider/cache
+/Tests/cache
+/tmp
